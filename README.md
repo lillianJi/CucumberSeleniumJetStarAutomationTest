@@ -34,5 +34,5 @@ It generates its own html format.
 ## Automatic Workflow
 ## Cucumber Reprot
 ## Discussing
-*email: testlillianji@gmail.com
-*[My Linkedin](https://www.linkedin.com/in/lillian-j-52472a143/)
+* email: testlillianji@gmail.com  
+* [My Linkedin](https://www.linkedin.com/in/lillian-j-52472a143/)
