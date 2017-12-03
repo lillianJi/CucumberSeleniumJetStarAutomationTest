@@ -40,7 +40,7 @@ Import as an existing maven project in Eclipse.
 #### Quick Start
 Use Junit run "TestRunner.java" see what will happen
 ## Automatic Workflow
-
+[](https://github.com/lillianJi/CucumberSeleniumJetStarAutomationTest/blob/master/JetStarAutomationTesting/images/ezgif.com-optimize.gif)
 ## Cucumber Reprot
 
 ## Discussing
