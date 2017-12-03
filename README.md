@@ -39,6 +39,7 @@ It generates its own html format.
 Import as an existing maven project in Eclipse.
 #### Quick Start
 Use Junit run "TestRunner.java" see what will happen
+Please store your correct JetStar usename and password in "datafile.properties" file,or you cant login successfully
 ## Automatic Workflow
 ![](https://github.com/lillianJi/CucumberSeleniumJetStarAutomationTest/blob/master/JetStarAutomationTesting/images/ezgif.com-video-to-gif.gif)
 ## Discussing
