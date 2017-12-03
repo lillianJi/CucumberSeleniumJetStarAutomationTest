@@ -26,3 +26,13 @@ Tags are named for feature files and for scenarios when a similar set is to be e
 Cucumber uses standard Junit Runner to execute a particular feature file, while automated testing.
 ##### Cucumber Report
 It generates its own html format.
+## Usage
+#### Dom.xml
+#### Import
+#### Quick Start
+#### other
+## Automatic Workflow
+## Cucumber Reprot
+## Discussing
+*email: testlillianji@gmail.com
+*Linkedin:[](https://www.linkedin.com/in/lillian-j-52472a143/)
