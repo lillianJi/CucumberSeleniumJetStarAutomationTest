@@ -40,32 +40,6 @@
 			<artifactId>selenium-server</artifactId>
 			<version>3.5.2</version>
 		</dependency>
-		
-		<!-- There are the rest assured dependencies -->
-      <!--   <dependency>
-        <groupId>io.rest-assured</groupId>
-        <artifactId>rest-assured</artifactId>
-        <version>3.0.3</version>
-        </dependency>
-
-        <dependency>
-        <groupId>io.rest-assured</groupId>
-        <artifactId>json-path</artifactId>
-        <version>3.0.3</version>
-        </dependency>
-
-        <dependency>
-        <groupId>io.rest-assured</groupId>
-        <artifactId>xml-path</artifactId>
-        <version>3.0.3</version>
-        </dependency>
-        
-        <dependency>
-      	<groupId>io.rest-assured</groupId>
-      	<artifactId>json-schema-validator</artifactId>
-      	<version>3.0.5</version>
-      	<scope>test</scope>
-		</dependency> -->
 
  </dependencies>
  
