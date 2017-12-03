@@ -10,8 +10,7 @@ Cucumber, along with Gherkin, is the testing framework,following the principles 
 #### Selenium
 Selenium is the HTTP driver used to navigate a browser from code. Often people refer to user interface automated tests as “Selenium Tests” but these are more accurately called “Behavior Driven” or “Acceptance Driven” tests.
 #### How does it work
-![How does it work](https://www.agiletrailblazers.com/hubfs/test-framework-transparent.png?t=1511977469017)
-<img src="https://www.agiletrailblazers.com/hubfs/test-framework-transparent.png?t=1511977469017" width="50%" height="50%" />
+<img src="https://www.agiletrailblazers.com/hubfs/test-framework-transparent.png?t=1511977469017" width="60%" height="60%" />
 ##### Feature Files
 These files are a vital part of Cucumber meant to write testing automation methods and acceptance tests. All the feature files end with a .feature extension.  Every feature made up of a number of scenarios to describe how the system supposed to behave . 
 ##### Scenario
