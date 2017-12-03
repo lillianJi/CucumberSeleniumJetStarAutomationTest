@@ -28,19 +28,19 @@ Cucumber uses standard Junit Runner to execute a particular feature file, while 
 It generates its own html format.
 ## Usage
 #### environment
-•	Java 8
-• Maven
-•	Junit 4.12
-•	Cucumber 1.2.5
-•	Selenium 3.5.2
-• Firefox Selenium Web Driver 
-•	Eclipse 
+•	Java 8  
+• Maven  
+•	Junit 4.12  
+•	Cucumber 1.2.5  
+•	Selenium 3.5.2  
+• Firefox Selenium Web Driver  
+•	Eclipse
 #### Import
 Import as an existing maven project in Eclipse.
 #### Quick Start
 Use Junit run "TestRunner.java" see what will happen
 ## Automatic Workflow
-[](https://github.com/lillianJi/CucumberSeleniumJetStarAutomationTest/blob/master/JetStarAutomationTesting/images/ezgif.com-optimize.gif)
+![](https://github.com/lillianJi/CucumberSeleniumJetStarAutomationTest/blob/master/JetStarAutomationTesting/images/ezgif.com-optimize.gif)
 ## Cucumber Reprot
 
 ## Discussing
